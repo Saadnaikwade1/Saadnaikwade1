@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 
 ## 📫 Connect with Me
 
-- 📧 Email: saad.naikwade@example.com *(replace this with your real email)*  
-- 💼 LinkedIn: [linkedin.com/in/saadnaikwade](https://linkedin.com/in/saadnaikwade)
+- 📧 Email: naikwadesaad@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/saadnaikwade](https://linkedin.com/in/saad-naikwade)
 
 ---
 
