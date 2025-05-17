@@ -1,21 +1,3 @@
-## Hi there 👋
-✏️## 👨‍💻 About Me
-
-Hi! I'm **Saad A. Naikwade**, an aspiring **Full Stack Web Developer** currently focused on mastering the **MERN stack**.
-
-I come from an Electronics & Communication Engineering background, and I'm now transitioning into software development. I'm passionate about building clean, responsive, and user-friendly web applications.
-
-Currently, I'm enrolled in a 6-month Full Stack Developer course where I'm learning:
-
-- ✅ HTML & CSS for structuring and styling websites  
-- ✅ JavaScript for interactivity  
-- ✅ React.js for dynamic frontends  
-- ✅ Node.js & Express.js for building scalable backend APIs  
-- ✅ MongoDB for handling databases
-
-I'm committed to learning by doing, working on projects, and contributing to open source whenever possible.
-
-Let's connect and build something awesome together!
 
 <!--
 **Saadnaikwade1/Saadnaikwade1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
